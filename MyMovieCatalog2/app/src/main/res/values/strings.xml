@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovieCatalog</string>
+    <string name="detail">Detail</string>
+    <string name="title_size">14sp</string>
+</resources>
